@@ -1,1 +1,4 @@
 *.[sb]#[0-9]
+/Firmware/NixieDriver.X/build/default/
+/Firmware/NixieDriver.X/dist/default/
+/software/nixie-send
